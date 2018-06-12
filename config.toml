@@ -10,3 +10,4 @@ url = "https://github.com/dwalkr/sawmill"
 weight = 10
 [params]
 logo = "/logo.svg"
+title = "Insidemotors"
